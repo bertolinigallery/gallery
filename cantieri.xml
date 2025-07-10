@@ -1,135 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <img>
-    <file id="pic01">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_00.jpg</filename>
-        <description>Realizzazione &#13;Anno 2013 - committente Bonfadini Costruzioni srl</description>
+    <file id="pic14">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_00.jpg</filename>
+        <description>Costruzione edifici plurifamiliari con piscina a Gravedona ed uniti (CO), anno 2023 - Committente: Bonfadini Costruzioni srl.</description>
         <id />
-        <title>Ville Tremezzo (CO)</title>
+        <title>Palazzine Gravedona (CO)</title>
         <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_04.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_04.jpg</images>
         </gallery>
     </file>
-    <file id="pic02">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_00.jpg</filename>
-        <description>Realizzazione 2 palazzine con 12  unità abitative e interrati in Argegno (SO)&#13;Anno 2012  - committente Bonfadini Costruzioni</description>
+    <file id="pic13">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_00.jpg</filename>
+        <description>Realizzazione di cinque case con appartamenti a Lenno (CO) , anno 2021 - Commitente Bonfadini Costruzioni srl</description>
         <id />
-        <title>Palazzine Argegno (SO)</title>
+        <title>Villette Lenno S.Rocco (CO)</title>
         <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic03">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_00.jpg</filename>
-        <description>Realizzazione 2 palazzine con 12 unità abitative e interrati in Gera Lario (CO)&#13;Anno 2012  - committente Bonfadini Costruzioni srl</description>
-        <id />
-        <title>12 unita' abitative Gera Lario (CO)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic04">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_00.jpg</filename>
-        <description>Consolidamento strutturale delle volte e murature, ripristino conservativo facciate chiesa parrocchiale  in Biolo (SO)&#13;Anno 2012  - committente Parrocchia Beata Vergine</description>
-        <id />
-        <title>Consolidamento Chiesa Biolo (SO)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic05">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_00.jpg</filename>
-        <description>Realizzazione complesso residenziale con interrati in  Gera Lario (CO)&#13;Anno 2011 – committente Bonfadini Costruzioni srl</description>
-        <id />
-        <title>Complesso Gera Lario (CO)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic06">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_00.jpg</filename>
-        <description>Realizzazione complesso residenziale con 12  unità abitative e interrati in Corteno Golgi  (BS)&#13;Anno 2011  -  commitente Bonfadini Costruzioni srl</description>
-        <id />
-        <title>Complesso Corteno Golgi  (BS)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic07">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_00.jpg</filename>
-        <description>Realizzazione 3 palazzine con 18 unità abitative e interrati in Montagna Valtellina (SO)&#13;Anno  2010  - Committente Bonfadini Costruzioni srl</description>
-        <id />
-        <title>Palazzine Montagna Valtellina (SO)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic08">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_00.jpg</filename>
-        <description>Realizzazione 2 palazzine di 12 unità con interrati  in  Lenno (CO)&#13; Anno  2010 – committente Bonfadini Costruzioni srl</description>
-        <id />
-        <title>Palazzine Lenno (Co)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic09">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_00.jpg</filename>
-        <description>Realizzazione nuova sede centro diurno per disabili in Sondrio&#13; Anno 2010   - committente Casa di riposo città di Sondrio</description>
-        <id />
-        <title>Centro diurno per disabili Sondrio</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic10">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_00.jpg</filename>
-        <description>Realizzazione 2 palazzine residenziali con 12 unità abitative e interrati in Trezzone (CO)&#13;Anno 2009  - committente  Bonfadini Costruzioni srl</description>
-        <id />
-        <title>Palazzine Trezzone (CO)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_04.jpg</images>
-        </gallery>
-    </file>
-    <file id="pic11">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_00.jpg</filename>
-        <description>Manutenzione straordinaria , rinforzo strutturale , risanamento murature e ripristino conservativo intonaco facciate  chiesa parrocchiale in Ardenno (SO)&#13;Anno 2009  - committente Parrocchia San Lorenzo</description>
-        <id />
-        <title>Chiesa di Ardenno (SO)</title>
-        <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_04.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_04.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_05.jpg</images>
         </gallery>
     </file>
     <file id="pic12">
@@ -146,29 +39,136 @@
             <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic12_06.jpg</images>
         </gallery>
     </file>
-    <file id="pic13">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_00.jpg</filename>
-        <description>Realizzazione di cinque case con appartamenti a Lenno (CO) , anno 2021 - Commitente Bonfadini Costruzioni srl</description>
+    <file id="pic11">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_00.jpg</filename>
+        <description>Manutenzione straordinaria , rinforzo strutturale , risanamento murature e ripristino conservativo intonaco facciate  chiesa parrocchiale in Ardenno (SO)&#13;Anno 2009  - committente Parrocchia San Lorenzo</description>
         <id />
-        <title>Villette Lenno S.Rocco (CO)</title>
+        <title>Chiesa di Ardenno (SO)</title>
         <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_04.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic13_05.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic11_04.jpg</images>
         </gallery>
     </file>
-    <file id="pic14">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_00.jpg</filename>
-        <description>Costruzione edifici plurifamiliari con piscina a Gravedona ed uniti (CO), anno 2023 - Committente: Bonfadini Costruzioni srl.</description>
+    <file id="pic10">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_00.jpg</filename>
+        <description>Realizzazione 2 palazzine residenziali con 12 unità abitative e interrati in Trezzone (CO)&#13;Anno 2009  - committente  Bonfadini Costruzioni srl</description>
         <id />
-        <title>Palazzine Gravedona (CO)</title>
+        <title>Palazzine Trezzone (CO)</title>
         <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_03.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic14_04.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic10_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic09">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_00.jpg</filename>
+        <description>Realizzazione nuova sede centro diurno per disabili in Sondrio&#13; Anno 2010   - committente Casa di riposo città di Sondrio</description>
+        <id />
+        <title>Centro diurno per disabili Sondrio</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic09_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic08">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_00.jpg</filename>
+        <description>Realizzazione 2 palazzine di 12 unità con interrati  in  Lenno (CO)&#13; Anno  2010 – committente Bonfadini Costruzioni srl</description>
+        <id />
+        <title>Palazzine Lenno (Co)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic08_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic07">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_00.jpg</filename>
+        <description>Realizzazione 3 palazzine con 18 unità abitative e interrati in Montagna Valtellina (SO)&#13;Anno  2010  - Committente Bonfadini Costruzioni srl</description>
+        <id />
+        <title>Palazzine Montagna Valtellina (SO)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic07_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic06">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_00.jpg</filename>
+        <description>Realizzazione complesso residenziale con 12  unità abitative e interrati in Corteno Golgi  (BS)&#13;Anno 2011  -  commitente Bonfadini Costruzioni srl</description>
+        <id />
+        <title>Complesso Corteno Golgi  (BS)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic06_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic05">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_00.jpg</filename>
+        <description>Realizzazione complesso residenziale con interrati in  Gera Lario (CO)&#13;Anno 2011 – committente Bonfadini Costruzioni srl</description>
+        <id />
+        <title>Complesso Gera Lario (CO)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic05_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic04">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_00.jpg</filename>
+        <description>Consolidamento strutturale delle volte e murature, ripristino conservativo facciate chiesa parrocchiale  in Biolo (SO)&#13;Anno 2012  - committente Parrocchia Beata Vergine</description>
+        <id />
+        <title>Consolidamento Chiesa Biolo (SO)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic04_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic03">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_00.jpg</filename>
+        <description>Realizzazione 2 palazzine con 12 unità abitative e interrati in Gera Lario (CO)&#13;Anno 2012  - committente Bonfadini Costruzioni srl</description>
+        <id />
+        <title>12 unita' abitative Gera Lario (CO)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic03_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic02">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_00.jpg</filename>
+        <description>Realizzazione 2 palazzine con 12  unità abitative e interrati in Argegno (SO)&#13;Anno 2012  - committente Bonfadini Costruzioni</description>
+        <id />
+        <title>Palazzine Argegno (SO)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic02_04.jpg</images>
+        </gallery>
+    </file>
+    <file id="pic01">
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_00.jpg</filename>
+        <description>Realizzazione &#13;Anno 2013 - committente Bonfadini Costruzioni srl</description>
+        <id />
+        <title>Ville Tremezzo (CO)</title>
+        <gallery>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/cantieri/pic01_04.jpg</images>
         </gallery>
     </file>
 </img>
