@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <img>
     <file id="1">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura%20sasso_00.jpg</filename>
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura_sasso_00.jpg</filename>
         <description>Siamo specializzati nella realizzazione di muri in sasso e murature a vista con un notevole impatto estetico e	la migliore qualità  artigianale.</description>
         <id/>
         <title>Muratura in sasso</title>
         <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura%20sasso_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura%20sasso_02.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura%20sasso_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura_sasso_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura_sasso_02.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/1_muratura_sasso_03.jpg</images>
         </gallery>
     </file>
     <file id="2">
@@ -22,14 +22,14 @@
         </gallery>
     </file>
     <file id="3">
-        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni%20particolari_00.jpg</filename>
+        <filename>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni_particolari_00.jpg</filename>
         <description>Siamo specializzati nelle realizzazioni di aree esterne con l’utilizzo di materiali innovativi e lavorazioni particolari.</description>
         <id/>
         <title>Lavorazioni particolari</title>
         <gallery>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni%20particolari_01.jpg</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni%20particolari_02.JPG</images>
-            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni%20particolari_03.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni_particolari_01.jpg</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni_particolari_02.JPG</images>
+            <images>https://raw.githubusercontent.com/bertolinigallery/gallery/refs/heads/main/specializzazioni/3_lavorazioni_particolari_03.jpg</images>
         </gallery>
     </file>
 </img>
